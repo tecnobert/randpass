@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
+before_script:
+  - npm install -g yarn
+  - yarn
+script:
+  # - npm test
+  - yarn build-web
+
+on:
+  branch: master
