@@ -23,7 +23,7 @@ Password generator made with React Native and RandTS
 ## Useful links and resources
 
 - [App Ideas - Password Generator
-](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)
+  ](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)
 
 ## Development environment
 
