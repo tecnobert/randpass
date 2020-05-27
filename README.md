@@ -4,10 +4,6 @@
 
 Password generator made with React Native and RandTS
 
-![Rand Pass screen shots](screenshots/print-01.png)
-
-![Rand Pass screen shots](screenshots/print-02.png)
-
 ## Development environment
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
@@ -53,3 +49,7 @@ If you choose to build for iOS
 You can build standalone apps for iOS with two different types, an archive (`expo build:ios -t archive`) or simulator (expo `build:ios -t simulator`) build. With the simulator build, you can test your standalone app on a simulator. If you want to publish your app to the store or distribute it with tools like TestFlight, you have to use the archive.
 
 When building for iOS, you are given a choice of letting the Expo client create the necessary credentials for you, while still having a chance to provide your own overrides. Your Apple ID and password are used locally and never saved on Expo's servers.
+
+![Rand Pass screen shots](screenshots/print-01.png)
+
+![Rand Pass screen shots](screenshots/print-02.png)
