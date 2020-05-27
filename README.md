@@ -2,6 +2,10 @@
 
 Password generator made with React Native and RandTS
 
+![Rand Pass screen shots](screenshots/print-01.png)
+
+![Rand Pass screen shots](screenshots/print-02.png)
+
 ## Development environment
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
