@@ -12,6 +12,11 @@ Password generator made with React Native and RandTS
 - [x] User can generate a password by clicking on a button after choosing the password length.
 - [x] After generating the password, the user can copy to the transfer area.
 - [ ] The user can choose the type of password, whether it is numeric, with strings or with characters.
+- [ ] User can select one or multiple of the following: `Include uppercase letters`, `Include lowercase letters`, `Include numbers`, `Include symbols`
+
+## Bonus features
+
+- [ ] Use can see the password strength
 
 ## Development environment
 
