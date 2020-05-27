@@ -2,7 +2,7 @@
 
 Password generator made with React Native and RandTS
 
-## Development environment
+## Development environment 🚀
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
 
@@ -22,16 +22,16 @@ cd randpass
 npm start # you can also use: expo start
 ```
 
-## Running the application
+## Running the application 🚚
 
 Install the [**Expo client**](https://expo.io/) app on your iOS or Android phone and connect to the same wireless network as your computer. On Android, use the Expo app to scan the QR code from your terminal to open your project. On iOS, use the built-in QR code scanner of the Camera app.
 
-## App subscription
+## App subscription 🗝️
 
 Android requires that all APKs be digitally signed with a certificate before they are installed on a device or updated. If you use Android App Bundles, you only need to subscribe to your app bundle before submitting it to the Play Console. The Google Play app subscription takes care of the rest. However, you can also subscribe to your app manually for upload to Google Play and other app stores. Visit the link below to learn how to sign your app:
 [App subscription](https://developer.android.com/studio/publish/app-signing)
 
-## Building your application
+## Building your application 📦
 
 Run `expo build:android` or to web `expo build:web` or `expo build:ios` to apple. If you don't already have a packager running for this project, expo will start one for you.
 
