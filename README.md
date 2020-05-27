@@ -1,4 +1,4 @@
-# Rand Pass
+# 🔐 Rand Pass
 
 Password generator made with React Native and RandTS
 
