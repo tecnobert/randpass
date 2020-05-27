@@ -6,6 +6,13 @@
 
 Password generator made with React Native and RandTS
 
+## User Stories
+
+- [x] The user can select the password length.
+- [x] User can generate a password by clicking on a button after choosing the password length.
+- [x] After generating the password, the user can copy to the transfer area.
+- [ ] The user can choose the type of password, whether it is numeric, with strings or with characters.
+
 ## Development environment
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
