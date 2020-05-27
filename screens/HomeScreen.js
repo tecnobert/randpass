@@ -129,7 +129,8 @@ function DevelopmentModeNotice() {
   } else {
     return (
       <Text style={styles.developmentModeText}>
-        You are not in development mode: your app will run at full speed.
+       Gere facilmente uma senha segura e aleatória com o Rand Pass.{" "}
+        {learnMoreButton}
       </Text>
     );
   }
