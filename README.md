@@ -31,6 +31,11 @@ If you are new to mobile development, the easiest way to get started is with Exp
 
 Assuming that you have [**Node 12 LTS**](https://nodejs.org/en/download/) or greater installed, you can use npm to install the Expo CLI command line utility:
 
+In this project, the randts package was used to generate random passwords.
+
+[Read more about Rand TS
+](https://github.com/tecnobert/randts)
+
 ```sh
 npm install -g expo-cli
 ```
