@@ -1,5 +1,7 @@
 # 🔐 Rand Pass
 
+[![Build Status](https://travis-ci.org/tecnobert/randpass.svg?branch=master)](https://travis-ci.org/tecnobert/randpass)
+
 > #### [Demo Web](https://randpass.now.sh/)
 
 > #### [Download APK](https://github.com/tecnobert/randpass/releases/download/v1.0/randpass-10e89df220d94753895fef7652d17033-signed.apk)
