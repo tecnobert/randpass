@@ -44,6 +44,6 @@ If, for any reason, you delete your project or clear your credentials in the fut
 ### iOS
 
 If you choose to build for iOS
-You can build standalone apps for iOS with two different types, an archive (`expo build:ios -t archive`) or simulator (expo build:ios -t simulator) build. With the simulator build, you can test your standalone app on a simulator. If you want to publish your app to the store or distribute it with tools like TestFlight, you have to use the archive.
+You can build standalone apps for iOS with two different types, an archive (`expo build:ios -t archive`) or simulator (expo `build:ios -t simulator`) build. With the simulator build, you can test your standalone app on a simulator. If you want to publish your app to the store or distribute it with tools like TestFlight, you have to use the archive.
 
 When building for iOS, you are given a choice of letting the Expo client create the necessary credentials for you, while still having a chance to provide your own overrides. Your Apple ID and password are used locally and never saved on Expo's servers.
