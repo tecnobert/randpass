@@ -1,5 +1,7 @@
 # 🔐 Rand Pass
 
+> #### [Baixar APK](https://github.com/tecnobert/randpass/releases/download/v1.0/randpass-10e89df220d94753895fef7652d17033-signed.apk)
+
 Password generator made with React Native and RandTS
 
 ## Development environment 🚀
