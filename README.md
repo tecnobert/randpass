@@ -1,6 +1,6 @@
 # 🔐 Rand Pass
 
-> #### [Baixar APK](https://github.com/tecnobert/randpass/releases/download/v1.0/randpass-10e89df220d94753895fef7652d17033-signed.apk)
+#### <a class="github-button" href="https://github.com/tecnobert/randpass/releases/download/v1.0/randpass-10e89df220d94753895fef7652d17033-signed.apk" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Download tecnobert/randpass on GitHub">Download APK</a>
 
 > #### [Demo Web](https://randpass.now.sh/)
 
