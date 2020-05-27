@@ -129,8 +129,7 @@ function DevelopmentModeNotice() {
   } else {
     return (
       <Text style={styles.developmentModeText}>
-       Gere facilmente uma senha segura e aleatória com o Rand Pass.{" "}
-        {learnMoreButton}
+        Gere facilmente uma senha segura e aleatória com o Rand Pass.
       </Text>
     );
   }
@@ -138,12 +137,6 @@ function DevelopmentModeNotice() {
 
 function handleLearnMorePress() {
   WebBrowser.openBrowserAsync("https://github.com/tecnobert/randpass");
-}
-
-function handleHelpPress() {
-  WebBrowser.openBrowserAsync(
-    "https://docs.expo.io/versions/latest/get-started/create-a-new-app/#making-your-first-change"
-  );
 }
 
 const styles = StyleSheet.create({
