@@ -4,7 +4,7 @@
 
 > #### [Demo Web](https://randpass.now.sh/)
 
-> #### [Download APK](https://github.com/tecnobert/randpass/releases/download/v1.0/randpass-10e89df220d94753895fef7652d17033-signed.apk)
+> #### [Download APK V1.01](https://github.com/tecnobert/randpass/releases/download/v1.1/randpass-067fa74a43054327904ccf7a1c33ce28-signed.apk)
 
 Password generator made with React Native and RandTS
 
