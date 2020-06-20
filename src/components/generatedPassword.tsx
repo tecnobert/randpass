@@ -2,13 +2,13 @@
 import React, { memo, useState, useEffect } from "react";
 import {
   Clipboard,
-  TouchableWithoutFeedback,
+  //TouchableWithoutFeedback,
   ToastAndroid,
 } from "react-native";
 import { ZXCVBNResult } from "zxcvbn";
 import { Box, Text } from "react-native-design-utility";
-import { Feather } from "@expo/vector-icons";
-import { useNavigation } from "@react-navigation/native";
+//import { Feather } from "@expo/vector-icons";
+//import { useNavigation } from "@react-navigation/native";
 
 import theme from "../constants/theme";
 
@@ -26,14 +26,14 @@ interface Status {
 const GeneratedPassowrd: React.FC<Props> = ({
   password,
   storePassword,
-  infoPassword,
+  //infoPassword,
 }) => {
   const [statusPassword, setStatusPassword] = useState<Status>({
     status: "",
     color: theme.color.redDark,
   });
 
-  const navigation = useNavigation();
+  //const navigation = useNavigation();
 
   useEffect(() => {
     generatePasswordStrength(storePassword);
