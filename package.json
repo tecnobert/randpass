@@ -7,7 +7,9 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "test": "jest --watchAll",
-    "build-web": "expo build:web"
+    "build-web": "expo build:web",
+    "build-android": "expo build:android -t apk",
+    "build-ios": "expo build:ios"
   },
   "dependencies": {
     "@expo/vector-icons": "^10.0.0",
