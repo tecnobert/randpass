@@ -20,7 +20,14 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/icon.png"
+      "favicon": "./assets/icon.png",
+      "build": {
+        "babel": {
+          "include": [
+            "native-base-shoutem-theme"
+          ]
+        }
+      }
     },
     "android": {
       "package": "com.tecnobert.randpass"
