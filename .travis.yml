@@ -4,12 +4,18 @@ node_js:
 cache:
   directories:
     - node_modules
+
+jdk:
+  - openjdk8
 before_script:
   - npm install -g expo-cli
+  - npm install -g turtle-cli
   - yarn
 script:
   # - npm test
-  - yarn build-web
+  - turtle setup:android
+  - turtle setup:ios --sdk-version 30.0.0
+  - yarn build-android
 
 on:
   branch: master
