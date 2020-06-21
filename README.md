@@ -1,12 +1,8 @@
 # 🔐 Rand Pass
 
-[![Build Status](https://travis-ci.org/tecnobert/randpass.svg?branch=master)](https://travis-ci.org/tecnobert/randpass)
-
-> #### [Demo Web](https://randpass.now.sh/)
-
 > #### [Download APK V1.01](https://github.com/tecnobert/randpass/releases/download/v1.1/randpass-067fa74a43054327904ccf7a1c33ce28-signed.apk)
 
-Password generator made with React Native and RandTS
+Password generator made with React Native.
 
 ## User Stories
 
@@ -30,11 +26,6 @@ Password generator made with React Native and RandTS
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
 
 Assuming that you have [**Node 12 LTS**](https://nodejs.org/en/download/) or greater installed, you can use npm to install the Expo CLI command line utility:
-
-In this project, the randts package was used to generate random passwords.
-
-[Read more about Rand TS
-](https://github.com/tecnobert/randts)
 
 ```sh
 npm install -g expo-cli
