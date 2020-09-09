@@ -45,6 +45,12 @@ npm start # you can also use: expo start
 
 Install the [**Expo client**](https://expo.io/) app on your iOS or Android phone and connect to the same wireless network as your computer. On Android, use the Expo app to scan the QR code from your terminal to open your project. On iOS, use the built-in QR code scanner of the Camera app.
 
+<figure>
+<img height='200px' alt='Expo Link' src='.github/images/expo-link-randpass.jpg'/>
+</figure>
+
+> ###### QR Code generated with: [QRCC](https://qrcc.now.sh/)
+
 ## App subscription 🗝️
 
 Android requires that all APKs be digitally signed with a certificate before they are installed on a device or updated. If you use Android App Bundles, you only need to subscribe to your app bundle before submitting it to the Play Console. The Google Play app subscription takes care of the rest. However, you can also subscribe to your app manually for upload to Google Play and other app stores. Visit the link below to learn how to sign your app:
