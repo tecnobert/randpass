@@ -23,7 +23,7 @@ const InfoPassword = () => {
   const { data } = useRoute<NavigationParams>().params;
   const navigation = useNavigation();
 
-  console.log(data);
+  // console.log(data);
   return (
     <Screen>
       <Appbar.Header style={{ backgroundColor: "white", elevation: 0 }}>
