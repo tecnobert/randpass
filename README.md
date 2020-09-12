@@ -6,20 +6,20 @@ Password generator made with React Native.
 
 ## User Stories
 
-- [x] The user can select the password length.
-- [x] User can generate a password by clicking on a button after choosing the password length.
-- [x] After generating the password, the user can copy to the transfer area.
-- [x] The user can choose the type of password, whether it is numeric, with strings or with characters.
-- [x] User can select one or multiple of the following: `Include uppercase letters`, `Include lowercase letters`, `Include numbers`, `Include symbols`
+-   [x] The user can select the password length.
+-   [x] User can generate a password by clicking on a button after choosing the password length.
+-   [x] After generating the password, the user can copy to the transfer area.
+-   [x] The user can choose the type of password, whether it is numeric, with strings or with characters.
+-   [x] User can select one or multiple of the following: `Include uppercase letters`, `Include lowercase letters`, `Include numbers`, `Include symbols`
 
 ## Bonus features
 
-- [x] Use can see the password strength
+-   [x] Use can see the password strength
 
 ## Useful links and resources
 
-- [App Ideas - Password Generator
-  ](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)
+-   [App Ideas - Password Generator
+    ](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)
 
 ## Development environment
 
