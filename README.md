@@ -45,6 +45,8 @@ git clone https://github.com/tecnobert/randpass
 
 cd randpass
 
+npm install
+
 npm start # you can also use: expo start
 ```
 
