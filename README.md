@@ -27,6 +27,11 @@ Password generator made with React Native.
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
 
+#### Remeber:
+
+> Add `google-services.json` to root path, You can achieve this by creating a new project in firebase.
+
+
 Assuming that you have [**Node 12 LTS**](https://nodejs.org/en/download/) or greater installed, you can use npm to install the Expo CLI command line utility:
 
 ```sh
