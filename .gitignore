@@ -1,5 +1,6 @@
 # Logs
 .idea
+google-services.json
 logs
 *.log
 npm-debug.log*
