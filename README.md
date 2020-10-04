@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4776edea5a664de0afc508fe2221b778)](https://app.codacy.com/manual/hebertcisco/randpass_2?utm_source=github.com&utm_medium=referral&utm_content=hebertcisco/randpass&utm_campaign=Badge_Grade_Dashboard)
 
 > #### [Download APK V1.03](https://github.com/hebertcisco/randpass/releases/download/v1.3/randpass-f8730b38189d45649e588b5eac61260f-signed.apk)
-fa74a430
+
 Password generator made with React Native.
 
 ## User Stories
