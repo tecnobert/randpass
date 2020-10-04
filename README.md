@@ -2,8 +2,8 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4776edea5a664de0afc508fe2221b778)](https://app.codacy.com/manual/hebertcisco/randpass_2?utm_source=github.com&utm_medium=referral&utm_content=hebertcisco/randpass&utm_campaign=Badge_Grade_Dashboard)
 
-> #### [Download APK V1.01](https://github.com/tecnobert/randpass/releases/download/v1.1/randpass-067fa74a43054327904ccf7a1c33ce28-signed.apk)
-
+> #### [Download APK V1.03](https://github.com/hebertcisco/randpass/releases/download/v1.3/randpass-f8730b38189d45649e588b5eac61260f-signed.apk)
+fa74a430
 Password generator made with React Native.
 
 ## User Stories
@@ -27,6 +27,11 @@ Password generator made with React Native.
 
 If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator.
 
+#### Remeber:
+
+> Add `google-services.json` to root path, You can achieve this by creating a new project in firebase.
+
+
 Assuming that you have [**Node 12 LTS**](https://nodejs.org/en/download/) or greater installed, you can use npm to install the Expo CLI command line utility:
 
 ```sh
@@ -39,6 +44,8 @@ This will start a development server for you.
 git clone https://github.com/tecnobert/randpass
 
 cd randpass
+
+npm install
 
 npm start # you can also use: expo start
 ```

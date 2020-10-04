@@ -3,8 +3,12 @@
     "name": "Rand Pass",
     "slug": "randpass",
     "privacy": "public",
-    "platforms": ["ios", "android", "web"],
-    "version": "1.0.2",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -15,7 +19,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -30,7 +36,10 @@
       }
     },
     "android": {
-      "package": "com.tecnobert.randpass"
-    }
+      "package": "me.hebertbarros.randpass",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": "Password generator made with React Native.",
+    "githubUrl": "https://github.com/hebertcisco/randpass"
   }
 }
