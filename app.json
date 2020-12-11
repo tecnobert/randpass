@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Rand Pass",
+    "name": "Randpass",
     "slug": "randpass",
     "platforms": [
       "ios",
@@ -29,7 +29,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "android": {
-      "package": "com.tecnobert.randpass"
+      "package": "me.hebertbarros.randpass"
     }
   }
 }
