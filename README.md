@@ -6,6 +6,11 @@
 
 Password generator made with React Native.
 
+
+<p align="center">Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">ser um apoiador</a> e receba brindes exclusivos!
+ </p>
+ 
+ 
 ## User Stories
 
 -   [x] The user can select the password length.
